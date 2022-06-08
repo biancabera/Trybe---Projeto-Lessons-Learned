@@ -1,0 +1,38 @@
+body { 
+    background-color: rgb(253, 251, 251);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    border: 5px;
+    font-size: larger;
+    line-height: 24px;
+
+}
+
+#cabecalho { 
+    position: fixed;
+    top: 0;
+    background-color: antiquewhite;
+    
+}
+
+#minha_foto { 
+    width: 300px;
+    margin-top: 10px;
+}
+
+#navegacao { 
+    margin-top: 80px;
+}
+
+.lado-direito { 
+    float: right;
+    width: 50%;
+}
+
+.lado-esquerdo  { 
+    float: left;
+    width: 50%;
+    
+}
